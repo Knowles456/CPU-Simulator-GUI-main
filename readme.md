@@ -1,12 +1,7 @@
 ## CPU-Simulator GUI
-A grahical user interface application with these components: CPU Simulator, QR code and Barcode Generator.
+A grahical user interface application with a CPU Simulator that graphically demonstrates CPU utilization with User defined processes running on a variety of CPU utilization algorithims. 
 
 
 ## Usage
+Downlaod the entire project folder. Open the project folder within Microsft's Visual Studio IDE and double click the solution file titled "CpuSchedulingWinForms". From there you can hit the start button within visual studio and the CPU scheduler program will run.
 
-```
-Please install the font: "IDAutomationHC39M Free Version". You can find it in the project root folder.
-```
-
-## License
-This project is licensed under the terms of the [MIT license](https://choosealicense.com/licenses/mit/).
